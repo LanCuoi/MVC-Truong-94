@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 thu test xem sao ne foleder ---
 test bai 2 khoa pham
 them phat nua xem sao
+=======
+thu test xem sao ne foleder ---
+>>>>>>> parent of b1a843b... edit file hay day
